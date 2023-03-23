@@ -1,0 +1,15 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+        long idade1;
+        long idade2;
+        long result;
+
+        idade1 = 28 + 3;
+        idade2 = 37 - 1;
+
+        result = idade1 + idade2;
+        
+        System.out.println("A soma das idades é "+result+" anos." );
+        
+    }
+}
